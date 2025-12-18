@@ -1,3 +1,3 @@
 # Hello-worlds
 
-This is an examply repository
+This is an example repository
